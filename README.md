@@ -10,7 +10,7 @@
  Birra R. Taha
   pronouns: "he" | "him"
   about: "Neurosurgery resident (PGY-4), University of Minnesota"
-  clinical interests: ["pediatric neurosurgery", "functional"]
+  clinical interests: ["pediatric neurosurgery", "functional neurosurgery / neuromodulation"]
   research interests: ["computer vision/ML", "neuroimaging"]
   hobbies: ["basketball", "computers", "politics"]
 }
