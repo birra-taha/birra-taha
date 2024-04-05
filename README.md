@@ -12,7 +12,7 @@
   about: "Neurosurgery resident (PGY-4), University of Minnesota"
   clinical interests: ["pediatric neurosurgery", "functional neurosurgery / neuromodulation"]
   research interests: ["computer vision/ML", "neuroimaging"]
-  hobbies: ["basketball", "computers", "politics"]
+  hobbies: ["basketball", "computers", "cooking"]
 }
 
  ```
