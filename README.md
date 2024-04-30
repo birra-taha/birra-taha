@@ -3,20 +3,16 @@
 <!-- **img align='right' src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="200">
 -->
 <h3 alight = "center"> <br> </h3>
- 
 
+$$\text{\color{blue}{birra r.} taha, MD}$$
 
- ```javascript
- Birra R. Taha, MD
-  pronouns: "he" | "him"
-  about: "Neurosurgery resident (PGY-4), University of Minnesota"
-  clinical interests: ["pediatric neurosurgery", "functional neurosurgery / neuromodulation"]
-  research interests: ["computer vision/ML", "neuromodulation", "neuroimaging"]
-  hobbies: ["basketball", "computers", "cooking"]
-}
+$$\text{neurosurgery resident (PGY-4), university of minnesota}$$
 
- ```
+$$\text{clinical interests: pediatric neurosurgery, pediatric neuro-oncology, neuromodulation, bci}$$
 
+$$\text{research interests: computer vision/ml, neuroimaging, TMS, direct cortical stimulation}$$
+
+$$\text{hobbies: basketball, computers}$$
 
 
 <!--
