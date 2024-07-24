@@ -6,7 +6,7 @@
 
 $$\text{\color{blue}{birra r.} taha, MD}$$
 
-$$\text{neurosurgery resident (PGY-4), university of minnesota}$$
+$$\text{neurosurgery resident (PGY-5), university of minnesota}$$
 
 $$\text{clinical interests: pediatric neurosurgery, pediatric neuro-oncology, neuromodulation, bci}$$
 
