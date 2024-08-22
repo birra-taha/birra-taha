@@ -2,7 +2,7 @@
 <img align="left" src="https://pics.craiyon.com/2023-07-08/4c10eac89bc743cc9073b9355d18583d.webp" width="200">
 <!-- **img align='right' src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="200">
 -->
-<h3 alight = "center"> <br> </h3>
+<h3 alight = "left"> <br> </h3>
 
 $$\text{\color{blue}{birra r.} taha, MD}$$
 
