@@ -1,31 +1,24 @@
-<h1> <br> </h1>
-<img align="left" src="https://pics.craiyon.com/2023-07-08/4c10eac89bc743cc9073b9355d18583d.webp" width="200">
-<!-- **img align='right' src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="200">
--->
-<h3 alight = "left"> <br> </h3>
+<p align="center">
+  <img src="https://pics.craiyon.com/2023-07-08/4c10eac89bc743cc9073b9355d18583d.webp" width="200" alt="Profile Image">
+</p>
 
-$$\text{\color{blue}{birra r.} taha, MD}$$
+<!-- Text Below -->
+<h1 align="center" style="color: blue;">birra r. taha, MD</h1>
 
-$$\text{neurosurgery resident (PGY-5), university of minnesota}$$
+<p align="center">
+  <strong>neurosurgery resident (PGY-5), university of minnesota</strong>  
+</p>
 
-$$\text{clinical interests: pediatric neurosurgery, pediatric neuro-oncology, neuromodulation, bci}$$
+<p align="center">
+  <strong>clinical interests:</strong> Pediatric Neurosurgery, Pediatric Neuro-Oncology, Neuromodulation, BCI  
+</p>
 
-$$\text{research interests: computer vision/ml, neuroimaging, TMS, direct cortical stimulation}$$
+<p align="center">
+  <strong>research interests:</strong> Computer Vision/ML, Neuroimaging, TMS, Direct Cortical Stimulation  
+</p>
 
-$$\text{hobbies: basketball, computers}$$
+<p align="center">
+  <strong>hobbies:</strong> Computers, Basketball
+</p>
 
 
-<!--
-**birra-taha/birra-taha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
