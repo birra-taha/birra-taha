@@ -3,7 +3,7 @@
 </p>
 
 <!-- Text Below -->
-<h1 align="center" style="color: blue;">birra r. taha, MD</h1>
+<h1 align="center" style="color: blue;">birra r. taha, md</h1>
 
 <p align="center">
   <strong>neurosurgery resident (PGY-5), university of minnesota</strong>  
